@@ -1301,7 +1301,6 @@
         <location line="+45"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
         <translation>The user interface language can be set here. This setting will take effect after restarting altcoin Core.</translation>
-        <type="unfinished"></translation>
     </message>
     <message>
         <location line="+35"/>
