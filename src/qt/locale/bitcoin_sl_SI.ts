@@ -427,7 +427,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivna povezava v omrežje Bitcoin</numerusform><numerusform>%n aktivni povezavi v omrežje altcoin</numerusform><numerusform>%n aktivne povezave v omrežje altcoin</numerusform><numerusform>%n aktivnih povezav v omrežje altcoin</numerusform></translation>
+        <translation><numerusform>%n aktivna povezava v omrežje altcoin</numerusform><numerusform>%n aktivni povezavi v omrežje altcoin</numerusform><numerusform>%n aktivne povezave v omrežje altcoin</numerusform><numerusform>%n aktivnih povezav v omrežje altcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
