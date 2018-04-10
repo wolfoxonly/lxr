@@ -431,11 +431,11 @@
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Afficher le message d'aide de Bitcoin Core pour obtenir une liste des options de ligne de commande altcoin possibles.</translation>
+        <translation>Afficher le message d'aide de altcoin Core pour obtenir une liste des options de ligne de commande altcoin possibles.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n connexion active avec le réseau Bitcoin</numerusform><numerusform>%n connexions actives avec le réseau altcoin</numerusform></translation>
+        <translation><numerusform>%n connexion active avec le réseau altcoin</numerusform><numerusform>%n connexions actives avec le réseau altcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -927,7 +927,7 @@
     </message>
     <message>
         <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core va télécharger et stocker une copie de la chaîne de blocs altcoin. Au moins %1Go de données seront stockées dans ce répertoire et cela augmentera avec le temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
+        <translation>altcoin Core va télécharger et stocker une copie de la chaîne de blocs altcoin. Au moins %1Go de données seront stockées dans ce répertoire et cela augmentera avec le temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -2250,7 +2250,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Un message qui était joint à l'URI Bitcoin et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau altcoin.</translation>
+        <translation>Un message qui était joint à l'URI altcoin et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau altcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

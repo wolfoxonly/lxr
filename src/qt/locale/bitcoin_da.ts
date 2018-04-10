@@ -431,11 +431,11 @@
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Vis Bitcoin Core hjælpebesked for at få en liste over mulige tilvalg for altcoin kommandolinje</translation>
+        <translation>Vis altcoin Core hjælpebesked for at få en liste over mulige tilvalg for altcoin kommandolinje</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til Bitcoin-netværket</numerusform><numerusform>%n aktive forbindelser til altcoin-netværket</numerusform></translation>
+        <translation><numerusform>%n aktiv forbindelse til altcoin-netværket</numerusform><numerusform>%n aktive forbindelser til altcoin-netværket</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -927,7 +927,7 @@
     </message>
     <message>
         <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core vil downloade og gemme et kopi af altcoin-blokkæden. Mindst %1 GB data vil blive gemt i denne mappe, og den vil vokse over tid. Tegnebogen vil også blive gemt i denne mappe.</translation>
+        <translation>altcoin Core vil downloade og gemme et kopi af altcoin-blokkæden. Mindst %1 GB data vil blive gemt i denne mappe, og den vil vokse over tid. Tegnebogen vil også blive gemt i denne mappe.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>

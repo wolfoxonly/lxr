@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostrar mensaje de ayuda del nucleo de Bitcoin para optener una lista con los posibles comandos  de altcoin</translation>
+        <translation>Mostrar mensaje de ayuda del nucleo de altcoin para optener una lista con los posibles comandos  de altcoin</translation>
     </message>
     <message>
         <source>Up to date</source>

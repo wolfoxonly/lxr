@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Bitcoin-adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar altcoins.</translation>
+        <translation>Detta är dina altcoin-adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar altcoins.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -432,11 +432,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Visa Bitcoin Cores hjälpmeddelande för att få en lista med möjliga altcoin-kommandoradsalternativ.</translation>
+        <translation>Visa altcoin Cores hjälpmeddelande för att få en lista med möjliga altcoin-kommandoradsalternativ.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktiva anslutningar till Bitcoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till altcoin-nätverket.</numerusform></translation>
+        <translation><numerusform>%n aktiva anslutningar till altcoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till altcoin-nätverket.</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -928,7 +928,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core kommer att ladda ner och spara en kopia av altcoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <translation>altcoin Core kommer att ladda ner och spara en kopia av altcoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>

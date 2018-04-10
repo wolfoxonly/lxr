@@ -431,7 +431,7 @@
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>有効な Bitcoin のコマンドライン オプションを見るために altcoin Core のヘルプメッセージを表示します。</translation>
+        <translation>有効な altcoin のコマンドライン オプションを見るために altcoin Core のヘルプメッセージを表示します。</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>

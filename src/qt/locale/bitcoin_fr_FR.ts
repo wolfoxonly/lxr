@@ -408,7 +408,7 @@ Réessayez.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n connexion active au réseau Bitcoin</numerusform><numerusform>%n connexions actives au réseau altcoin</numerusform></translation>
+        <translation><numerusform>%n connexion active au réseau altcoin</numerusform><numerusform>%n connexions actives au réseau altcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>

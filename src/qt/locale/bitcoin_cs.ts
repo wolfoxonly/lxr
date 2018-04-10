@@ -423,11 +423,11 @@
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Seznam argumentů Bitcoinu pro příkazovou řádku získáš v nápovědě altcoinu Core</translation>
+        <translation>Seznam argumentů altcoinu pro příkazovou řádku získáš v nápovědě altcoinu Core</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivní spojení do Bitcoinové sítě</numerusform><numerusform>%n aktivní spojení do Bitcoinové sítě</numerusform><numerusform>%n aktivních spojení do altcoinové sítě</numerusform></translation>
+        <translation><numerusform>%n aktivní spojení do Bitcoinové sítě</numerusform><numerusform>%n aktivní spojení do altcoinové sítě</numerusform><numerusform>%n aktivních spojení do altcoinové sítě</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
