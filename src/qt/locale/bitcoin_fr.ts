@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core va maintenant se fermer pour terminer le processus de chiffrement. Souvenez-vous que le chiffrement de votre portefeuille ne peut pas vous protéger complètement contre le vol de vos bitcoins par des programmes malveillants infectant votre ordinateur.</translation>
+        <translation>Bitcoin Core va maintenant se fermer pour terminer le processus de chiffrement. Souvenez-vous que le chiffrement de votre portefeuille ne peut pas vous protéger complètement contre le vol de vos altcoins par des programmes malveillants infectant votre ordinateur.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Demander des paiements (génère des codes QR et des URIs bitcoin:)</translation>
+        <translation>Demander des paiements (génère des codes QR et des URIs altcoin:)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Ouvrir un URI bitcoin: ou une demande de paiement</translation>
+        <translation>Ouvrir un URI altcoin: ou une demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Impossible de démarrer le gestionnaire de cliquer-pour-payer bitcoin :</translation>
+        <translation>Impossible de démarrer le gestionnaire de cliquer-pour-payer altcoin :</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2226,7 +2226,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Les frais seront déduits du montant envoyé. Le destinataire recevra moins de bitcoins que le montant saisi dans le champ de montant. Si plusieurs destinataires sont sélectionnés, les frais seront partagés également..</translation>
+        <translation>Les frais seront déduits du montant envoyé. Le destinataire recevra moins de altcoins que le montant saisi dans le champ de montant. Si plusieurs destinataires sont sélectionnés, les frais seront partagés également..</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2284,7 +2284,7 @@
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Vous pouvez signer des messages/accords avec vos adresses pour prouver que vous pouvez recevoir des bitcoins à ces dernières. Faites attention de ne rien signer de vague ou au hasard, car des attaques d'hameçonnage pourraient essayer de vous faire signer avec votre identité afin de l'usurper. Ne signez que des déclarations entièrement détaillées et avec lesquelles vous êtes d'accord.</translation>
+        <translation>Vous pouvez signer des messages/accords avec vos adresses pour prouver que vous pouvez recevoir des altcoins à ces dernières. Faites attention de ne rien signer de vague ou au hasard, car des attaques d'hameçonnage pourraient essayer de vous faire signer avec votre identité afin de l'usurper. Ne signez que des déclarations entièrement détaillées et avec lesquelles vous êtes d'accord.</translation>
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>

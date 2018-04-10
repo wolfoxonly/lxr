@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Cereţi plăţi (generează coduri QR şi bitcoin-uri: URls)</translation>
+        <translation>Cereţi plăţi (generează coduri QR şi altcoin-uri: URls)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Deschidere bitcoin: o adresa URI sau o cerere de plată</translation>
+        <translation>Deschidere altcoin: o adresa URI sau o cerere de plată</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Adresa introdusă "%1" nu este o adresă bitcoin validă.</translation>
+        <translation>Adresa introdusă "%1" nu este o adresă altcoin validă.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -1149,7 +1149,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Alegeţi subdiviziunea folosită la afişarea interfeţei şi la trimiterea de bitcoin.</translation>
+        <translation>Alegeţi subdiviziunea folosită la afişarea interfeţei şi la trimiterea de altcoin.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1189,7 +1189,7 @@
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa bitcoin pe care aţi specificat-o nu este validă.</translation>
+        <translation>Adresa altcoin pe care aţi specificat-o nu este validă.</translation>
     </message>
 </context>
 <context>
@@ -1299,7 +1299,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Nu poate porni bitcoin: manipulator clic-pentru-plată</translation>
+        <translation>Nu poate porni altcoin: manipulator clic-pentru-plată</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2067,7 +2067,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Atenţie: Adresa bitcoin nevalidă!</translation>
+        <translation>Atenţie: Adresa altcoin nevalidă!</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2118,7 +2118,7 @@
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>Adresa bitcoin către care se face plata</translation>
+        <translation>Adresa altcoin către care se face plata</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2146,7 +2146,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>un mesaj a fost ataşat la bitcoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua bitcoin.</translation>
+        <translation>un mesaj a fost ataşat la bitcoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua altcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2747,7 +2747,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Trimitere bitcoin</translation>
+        <translation>Trimitere altcoin</translation>
     </message>
 </context>
 <context>

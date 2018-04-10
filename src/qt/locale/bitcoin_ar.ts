@@ -395,7 +395,7 @@
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>حول bitcoin core</translation>
+        <translation>حول altcoin core</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitcoin Core</source>

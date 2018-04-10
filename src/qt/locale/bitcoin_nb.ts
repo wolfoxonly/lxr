@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
+        <translation>Bitcoin Core vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine altcoins hvis datamaskinen din er infisert av skadevare.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Forespør betalinger (genererer QR-koder og bitcoin: URIer)</translation>
+        <translation>Forespør betalinger (genererer QR-koder og altcoin: URIer)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -1165,7 +1165,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av bitcoins.</translation>
+        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av altcoins.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -2067,7 +2067,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Bekreft sending av bitcoins</translation>
+        <translation>Bekreft sending av altcoins</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2226,7 +2226,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Gebyret vil bli trukket fra beløpet som blir sendt. Mottakeren vil motta mindre bitcoins enn det du skriver inn i beløpsfeltet. Hvis det er valgt flere mottakere, deles gebyret likt.</translation>
+        <translation>Gebyret vil bli trukket fra beløpet som blir sendt. Mottakeren vil motta mindre altcoins enn det du skriver inn i beløpsfeltet. Hvis det er valgt flere mottakere, deles gebyret likt.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2250,7 +2250,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>En melding som var tilknyttet bitcoinen: URI vil bli lagret med transaksjonen for din oversikt. Denne meldingen vil ikke bli sendt over Bitcoin-nettverket.</translation>
+        <translation>En melding som var tilknyttet altcoinen: URI vil bli lagret med transaksjonen for din oversikt. Denne meldingen vil ikke bli sendt over Bitcoin-nettverket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2284,7 +2284,7 @@
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan signere meldinger/avtaler med adresser for å bevise at du kan motta bitcoins sendt til dem. Vær forsiktig med å signere noe vagt eller tilfeldig, siden phishing-angrep kan prøve å lure deg til å signere din identitet over til dem. Bare signer fullt detaljerte utsagn som du er enig i.</translation>
+        <translation>Du kan signere meldinger/avtaler med adresser for å bevise at du kan motta altcoins sendt til dem. Vær forsiktig med å signere noe vagt eller tilfeldig, siden phishing-angrep kan prøve å lure deg til å signere din identitet over til dem. Bare signer fullt detaljerte utsagn som du er enig i.</translation>
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
@@ -2545,7 +2545,7 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Genererte bitcoins må modnes %1 blokker før de kan brukes. Da du genererte denne blokken ble den kringkastet på nettverket for å bli lagt til i kjeden av blokker. Hvis den ikke kommer med i kjeden vil den endre seg til "ikke akseptert" og pengene vil ikke kunne brukes. Dette vil noen ganger skje hvis en annen node genererer en blokk noen sekunder i tid fra din egen.</translation>
+        <translation>Genererte altcoins må modnes %1 blokker før de kan brukes. Da du genererte denne blokken ble den kringkastet på nettverket for å bli lagt til i kjeden av blokker. Hvis den ikke kommer med i kjeden vil den endre seg til "ikke akseptert" og pengene vil ikke kunne brukes. Dette vil noen ganger skje hvis en annen node genererer en blokk noen sekunder i tid fra din egen.</translation>
     </message>
     <message>
         <source>Debug information</source>

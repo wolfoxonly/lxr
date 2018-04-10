@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky nemůže zabránit krádeži tvých bitcoinů malwarem, kterým se může počítač nakazit.</translation>
+        <translation>Bitcoin Core se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky nemůže zabránit krádeži tvých altcoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -395,7 +395,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Požaduj platby (generuje QR kódy a bitcoin: URI)</translation>
+        <translation>Požaduj platby (generuje QR kódy a altcoin: URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -415,7 +415,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Načti bitcoin: URI nebo platební požadavek</translation>
+        <translation>Načti altcoin: URI nebo platební požadavek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1303,7 +1303,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit bitcoin: obsluha click-to-pay</translation>
+        <translation>Nemůžu spustit altcoin: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1943,7 +1943,7 @@
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation>Platit jen minimální poplatek je v pořádku, pokud je zrovna méně transakcí než místa v blocích. Ale počítej s tím, že to také může skončit transakcí, která nikdy nebude potvrzena, pokud je větší poptávka po bitcoinových transakcích, než síť zvládne zpracovat.</translation>
+        <translation>Platit jen minimální poplatek je v pořádku, pokud je zrovna méně transakcí než místa v blocích. Ale počítej s tím, že to také může skončit transakcí, která nikdy nebude potvrzena, pokud je větší poptávka po altcoinových transakcích, než síť zvládne zpracovat.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2174,7 +2174,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Poplatek se odečte od posílané částky. Příjemce tak dostane méně bitcoinů, než zadáš do pole Částka. Pokud vybereš více příjemců, tak se poplatek rovnoměrně rozloží.</translation>
+        <translation>Poplatek se odečte od posílané částky. Příjemce tak dostane méně altcoinů, než zadáš do pole Částka. Pokud vybereš více příjemců, tak se poplatek rovnoměrně rozloží.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2198,7 +2198,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Zpráva, která byla připojena k bitcoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Bitcoinové síti.</translation>
+        <translation>Zpráva, která byla připojena k altcoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Bitcoinové síti.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2232,7 +2232,7 @@
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Podepsáním zprávy/smlouvy svými adresami můžeš prokázat, že jsi na ně schopen přijmout bitcoiny. Buď opatrný a nepodepisuj nic vágního nebo náhodného; například při phishingových útocích můžeš být lákán, abys něco takového podepsal. Podepisuj pouze naprosto úplná a detailní prohlášení, se kterými souhlasíš.</translation>
+        <translation>Podepsáním zprávy/smlouvy svými adresami můžeš prokázat, že jsi na ně schopen přijmout altcoiny. Buď opatrný a nepodepisuj nic vágního nebo náhodného; například při phishingových útocích můžeš být lákán, abys něco takového podepsal. Podepisuj pouze naprosto úplná a detailní prohlášení, se kterými souhlasíš.</translation>
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>

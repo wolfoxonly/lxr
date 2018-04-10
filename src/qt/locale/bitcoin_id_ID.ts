@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core akan ditutup untuk menyelesaikan proses enkripsi. Mohon diingat bahwa mengenkripsi dompet Anda tidak akan sepenuhnya melindungi bitcoin Anda dari virus atau malware yang menginfeksi komputer Anda.</translation>
+        <translation>Bitcoin Core akan ditutup untuk menyelesaikan proses enkripsi. Mohon diingat bahwa mengenkripsi dompet Anda tidak akan sepenuhnya melindungi altcoin Anda dari virus atau malware yang menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Permintaan pembayaran (membuat kode QR dan bitcoin: URIs)</translation>
+        <translation>Permintaan pembayaran (membuat kode QR dan altcoin: URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Buka URI bitcoin: atau permintaan pembayaran</translation>
+        <translation>Buka URI altcoin: atau permintaan pembayaran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

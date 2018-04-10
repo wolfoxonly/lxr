@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Ödeme talep et (QR kodu ve bitcoin URI'si oluşturur)</translation>
+        <translation>Ödeme talep et (QR kodu ve altcoin URI'si oluşturur)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Bir bitcoin: bağlantısı ya da ödeme talebi aç</translation>
+        <translation>Bir altcoin: bağlantısı ya da ödeme talebi aç</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1995,7 +1995,7 @@
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation>Asgari ücreti ödemek, bloklarda boşluktan daha az muamele hacmi olduğu sürece bir sorun çıkarmaz. Fakat şebekenin işleyecebileceğinden daha çok bitcoin muameleleri talebi olduğunda bunun asla teyit edilmeyen bir muamele olabileceğinin farkında olmalısınız.</translation>
+        <translation>Asgari ücreti ödemek, bloklarda boşluktan daha az muamele hacmi olduğu sürece bir sorun çıkarmaz. Fakat şebekenin işleyecebileceğinden daha çok altcoin muameleleri talebi olduğunda bunun asla teyit edilmeyen bir muamele olabileceğinin farkında olmalısınız.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2226,7 +2226,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Ücret yollanan meblağdan alınacaktır. Alıcı meblağ alanında girdiğinizden daha az bitcoin alacaktır.  Eğer birden çok alıcı seçiliyse ücret eşit olarak bölünecektir.</translation>
+        <translation>Ücret yollanan meblağdan alınacaktır. Alıcı meblağ alanında girdiğinizden daha az altcoin alacaktır.  Eğer birden çok alıcı seçiliyse ücret eşit olarak bölünecektir.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2284,7 +2284,7 @@
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Adreslerinize yollanan bitcoinleri alabileceğiniz ispatlamak için adreslerinizle mesaj/anlaşma imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
+        <translation>Adreslerinize yollanan altcoinleri alabileceğiniz ispatlamak için adreslerinizle mesaj/anlaşma imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
@@ -2545,7 +2545,7 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan bitcoin'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan altcoin'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -3005,7 +3005,7 @@
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - bitcoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - altcoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
@@ -3265,7 +3265,7 @@
     </message>
     <message>
         <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-        <translation>Etkinse bitcoin oluşuturulmasına atanan iş parçacığı sayısını ayarla (-1 = tüm çekirdekler, varsayılan: %d)</translation>
+        <translation>Etkinse altcoin oluşuturulmasına atanan iş parçacığı sayısını ayarla (-1 = tüm çekirdekler, varsayılan: %d)</translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>

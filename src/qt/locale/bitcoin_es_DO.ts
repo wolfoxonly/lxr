@@ -383,7 +383,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Abrir un bitcoin: URI o petición de pago</translation>
+        <translation>Abrir un altcoin: URI o petición de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -981,7 +981,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>No se pudo iniciar bitcoin: manejador de pago-al-clic</translation>
+        <translation>No se pudo iniciar altcoin: manejador de pago-al-clic</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>

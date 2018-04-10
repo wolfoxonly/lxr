@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Bitcoin Core irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus bitcoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
+        <translation>O cliente Bitcoin Core irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus altcoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar moedas para um endereço bitcoin</translation>
+        <translation>Enviar moedas para um endereço altcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Solicitar pagamentos (gera códigos QR e URIs bitcoin:)</translation>
+        <translation>Solicitar pagamentos (gera códigos QR e URIs altcoin:)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Abrir URI bitcoin: ou pedido de pagamento</translation>
+        <translation>Abrir URI altcoin: ou pedido de pagamento</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>O endereço introduzido "%1" não é um endereço bitcoin válido.</translation>
+        <translation>O endereço introduzido "%1" não é um endereço altcoin válido.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -1082,7 +1082,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir a porta do cliente bitcoin automaticamente no seu router. Isto apenas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
+        <translation>Abrir a porta do cliente altcoin automaticamente no seu router. Isto apenas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1316,7 +1316,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Impossível iniciar o controlador de bitcoin: click-to-pay</translation>
+        <translation>Impossível iniciar o controlador de altcoin: click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2215,7 +2215,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>A taxa será deduzida ao montante enviado. O destinatário irá receber menos bitcoins do que as que introduziu no campo montante. Caso sejam seleccionados múltiplos destinatários, a taxa será repartida equitativamente.</translation>
+        <translation>A taxa será deduzida ao montante enviado. O destinatário irá receber menos altcoins do que as que introduziu no campo montante. Caso sejam seleccionados múltiplos destinatários, a taxa será repartida equitativamente.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2239,7 +2239,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Uma mensagem que estava anexada ao URI bitcoin: que será armazenada com a transação para sua referência. Nota: Esta mensagem não será enviada através da rede Bitcoin.</translation>
+        <translation>Uma mensagem que estava anexada ao URI altcoin: que será armazenada com a transação para sua referência. Nota: Esta mensagem não será enviada através da rede Bitcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

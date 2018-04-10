@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>bitcoin: URI 또는 지불요청 열기</translation>
+        <translation>altcoin: URI 또는 지불요청 열기</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

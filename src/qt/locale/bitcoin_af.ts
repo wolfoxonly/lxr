@@ -327,7 +327,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Versoek betalings (genereer QR-kodes en bitcoin: URI's)</translation>
+        <translation>Versoek betalings (genereer QR-kodes en altcoin: URI's)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Skep 'n bitcoin: URI of betalingsversoek</translation>
+        <translation>Skep 'n altcoin: URI of betalingsversoek</translation>
     </message>
     </context>
 <context>

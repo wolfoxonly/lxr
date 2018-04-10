@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core se cerrará ahora para completar el procedo de encriptación. Recuerda que encriptar tu cartera no te protegerá completamente de la pérdida de bitcoins por infección de malware en tu computadora.</translation>
+        <translation>Bitcoin Core se cerrará ahora para completar el procedo de encriptación. Recuerda que encriptar tu cartera no te protegerá completamente de la pérdida de altcoins por infección de malware en tu computadora.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar bitcoins a una dirección Bitcoin</translation>
+        <translation>Enviar altcoins a una dirección Bitcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Solicitar pagos (generando códigos QR e identificadores URI "bitcoin:")</translation>
+        <translation>Solicitar pagos (generando códigos QR e identificadores URI "altcoin:")</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Abrir un identificador URI "bitcoin:" o una petición de pago</translation>
+        <translation>Abrir un identificador URI "altcoin:" o una petición de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1161,7 +1161,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Elegir la subdivisión predeterminada para mostrar cantidades en la interfaz y cuando se envían bitcoins.</translation>
+        <translation>Elegir la subdivisión predeterminada para mostrar cantidades en la interfaz y cuando se envían altcoins.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1311,7 +1311,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>No se puede iniciar el gestor de identificadores "bitcoin:" de clic-para-pagar</translation>
+        <translation>No se puede iniciar el gestor de identificadores "altcoin:" de clic-para-pagar</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1907,7 +1907,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Enviar bitcoins</translation>
+        <translation>Enviar altcoins</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2063,7 +2063,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Confirmar el envío de bitcoins</translation>
+        <translation>Confirmar el envío de altcoins</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2123,7 +2123,7 @@
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>¡La transacción fue rechazada! Esto puede haber ocurrido si alguno de los bitcoins de su monedero ya estaba gastado o si ha usado una copia de wallet.dat y los bitcoins estaban gastados en la copia pero no se habían marcado como gastados aqui.</translation>
+        <translation>¡La transacción fue rechazada! Esto puede haber ocurrido si alguno de los bitcoins de su monedero ya estaba gastado o si ha usado una copia de wallet.dat y los altcoins estaban gastados en la copia pero no se habían marcado como gastados aqui.</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an absurdly high fee.</source>
@@ -2222,7 +2222,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>La cuota será deducida de la cantidad que sea mandada. El destinatario recibirá menos bitcoins de los que entres en el  </translation>
+        <translation>La cuota será deducida de la cantidad que sea mandada. El destinatario recibirá menos altcoins de los que entres en el  </translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2246,7 +2246,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Un mensaje que se adjuntó a la bitcoin: URL que será almacenada con la transacción para su referencia. Nota: Este mensaje no se envía a través de la red Bitcoin.</translation>
+        <translation>Un mensaje que se adjuntó a la altcoin: URL que será almacenada con la transacción para su referencia. Nota: Este mensaje no se envía a través de la red Bitcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2541,7 +2541,7 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Los bitcoins generados deben madurar %1 bloques antes de que puedan gastarse. Cuando generó este bloque, se transmitió a la red para que se añadiera a la cadena de bloques. Si no consigue entrar en la cadena, su estado cambiará a "no aceptado" y ya no se podrá gastar. Esto puede ocurrir ocasionalmente si otro nodo genera un bloque a pocos segundos del suyo.</translation>
+        <translation>Los altcoins generados deben madurar %1 bloques antes de que puedan gastarse. Cuando generó este bloque, se transmitió a la red para que se añadiera a la cadena de bloques. Si no consigue entrar en la cadena, su estado cambiará a "no aceptado" y ya no se podrá gastar. Esto puede ocurrir ocasionalmente si otro nodo genera un bloque a pocos segundos del suyo.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2863,7 +2863,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Enviar bitcoins</translation>
+        <translation>Enviar altcoins</translation>
     </message>
 </context>
 <context>

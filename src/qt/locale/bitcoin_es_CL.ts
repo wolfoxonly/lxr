@@ -263,7 +263,7 @@
     </message>
     <message>
         <source>Bitcoin Core client</source>
-        <translation>cliente bitcoin core</translation>
+        <translation>cliente altcoin core</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar monedas a una dirección bitcoin</translation>
+        <translation>Enviar monedas a una dirección altcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -339,11 +339,11 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>bitcoin core</translation>
+        <translation>altcoin core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Pide pagos (genera codigos QR and bitcoin: URls)</translation>
+        <translation>Pide pagos (genera codigos QR and altcoin: URls)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -539,7 +539,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>bitcoin core</translation>
+        <translation>altcoin core</translation>
     </message>
     <message>
         <source>version</source>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>bitcoin core</translation>
+        <translation>altcoin core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1073,7 +1073,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>bitcoin core</translation>
+        <translation>altcoin core</translation>
     </message>
     <message>
         <source>[testnet]</source>

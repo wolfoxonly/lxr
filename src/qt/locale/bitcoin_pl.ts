@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Program Bitcoin Core zamknie się, aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni twoich bitcoinów przed kradzieżą przez złośliwe oprogramowanie mogące zainfekować twój komputer.</translation>
+        <translation>Program Bitcoin Core zamknie się, aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni twoich altcoinów przed kradzieżą przez złośliwe oprogramowanie mogące zainfekować twój komputer.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Wyślij monety na adres bitcoinowy</translation>
+        <translation>Wyślij monety na adres altcoinowy</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -379,7 +379,7 @@
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem bitcoinowym.</translation>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem altcoinowym.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Żądaj płatności (generuje kod QR oraz bitcoinowe URI)</translation>
+        <translation>Żądaj płatności (generuje kod QR oraz altcoinowe URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Otwórz URI bitcoin: lub żądanie zapłaty</translation>
+        <translation>Otwórz URI altcoin: lub żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Wprowadzony adres «%1"» nie jest poprawnym adresem bitcoinowym.</translation>
+        <translation>Wprowadzony adres «%1"» nie jest poprawnym adresem altcoinowym.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -927,7 +927,7 @@
     </message>
     <message>
         <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Program pobierze i będzie przechowywał kopię łańcucha bloków bitcoinowych. W wybranym katalogu musi być przynajmniej %1 GB miejsca, a z czasem ilość danych będzie rosła. Portfel będzie przechowywany w tym samym katalogu.</translation>
+        <translation>Program pobierze i będzie przechowywał kopię łańcucha bloków altcoinowych. W wybranym katalogu musi być przynajmniej %1 GB miejsca, a z czasem ilość danych będzie rosła. Portfel będzie przechowywany w tym samym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1208,7 +1208,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią bitcoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
+        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią altcoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1307,7 +1307,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Nie można uruchomić protokołu bitcoin: kliknij-by-zapłacić</translation>
+        <translation>Nie można uruchomić protokołu altcoin: kliknij-by-zapłacić</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1389,7 +1389,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Wprowadź adres bitcoinowy (np. %1)</translation>
+        <translation>Wprowadź adres altcoinowy (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1975,7 +1975,7 @@
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation>Zapłacenie tylko minimalnej opłaty jest nadal wystarczające, dopóki jest mniejszy wolumen transakcji niż miejsca w blokach. Należy jednak mieć świadomość, że może skończyć się to niezatwierdzeniem nigdy transakcji, gdy jest większe zapotrzebowanie na transakcje bitcoina niż sieć może przetworzyć.</translation>
+        <translation>Zapłacenie tylko minimalnej opłaty jest nadal wystarczające, dopóki jest mniejszy wolumen transakcji niż miejsca w blokach. Należy jednak mieć świadomość, że może skończyć się to niezatwierdzeniem nigdy transakcji, gdy jest większe zapotrzebowanie na transakcje altcoina niż sieć może przetworzyć.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2206,7 +2206,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Opłata zostanie odjęta od kwoty wysyłane.Odbiorca otrzyma mniej niż bitcoins wpisz w polu kwoty. Jeśli wybrano kilku odbiorców, opłata jest podzielona równo.</translation>
+        <translation>Opłata zostanie odjęta od kwoty wysyłane.Odbiorca otrzyma mniej niż altcoins wpisz w polu kwoty. Jeśli wybrano kilku odbiorców, opłata jest podzielona równo.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2230,7 +2230,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Wiadomość, która została dołączona do URI bitcoin:, która będzie przechowywana wraz z transakcją w celach informacyjnych. Uwaga: Ta wiadomość nie będzie rozsyłana w sieci Bitcoin.</translation>
+        <translation>Wiadomość, która została dołączona do URI altcoin:, która będzie przechowywana wraz z transakcją w celach informacyjnych. Uwaga: Ta wiadomość nie będzie rozsyłana w sieci Bitcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

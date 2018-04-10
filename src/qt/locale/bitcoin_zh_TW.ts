@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>要求付款(產生 QR Code 和 bitcoin 付款協議的資源識別碼: URI)</translation>
+        <translation>要求付款(產生 QR Code 和 altcoin 付款協議的資源識別碼: URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>開啓 bitcoin 協議的資源識別碼(URI)或付款要求</translation>
+        <translation>開啓 altcoin 協議的資源識別碼(URI)或付款要求</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>沒辦法啟動 bitcoin 協議的按就付處理器</translation>
+        <translation>沒辦法啟動 altcoin 協議的按就付處理器</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2226,7 +2226,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>手續費會從要付款出去的金額中扣掉。因此收款人會收到比輸入的金額還要少的 bitcoin。如果有多個收款人的話，手續費會平均分配來扣除。</translation>
+        <translation>手續費會從要付款出去的金額中扣掉。因此收款人會收到比輸入的金額還要少的 altcoin。如果有多個收款人的話，手續費會平均分配來扣除。</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>

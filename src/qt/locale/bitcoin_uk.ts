@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Створити запит платежу (генерує QR-код та bitcoin: URI)</translation>
+        <translation>Створити запит платежу (генерує QR-код та altcoin: URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Відкрити bitcoin: URI чи запит платежу</translation>
+        <translation>Відкрити altcoin: URI чи запит платежу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Неможливо запустити bitcoin: обробник click-to-pay</translation>
+        <translation>Неможливо запустити altcoin: обробник click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2250,7 +2250,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Повідомлення, що було додане до bitcoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу Bitcoin.</translation>
+        <translation>Повідомлення, що було додане до altcoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу Bitcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

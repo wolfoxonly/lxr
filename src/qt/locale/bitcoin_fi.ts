@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata bitcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
+        <translation>Bitcoin Core sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata altcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja bitcoin: URIt)</translation>
+        <translation>Pyydä maksuja (Luo QR koodit ja altcoin: URIt)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Avaa bitcoin: URI tai maksupyyntö</translation>
+        <translation>Avaa altcoin: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1161,11 +1161,11 @@
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona bitcoin-määrät näytetään</translation>
+        <translation>Yksikkö jona altcoin-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti bitcoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti altcoin-määrien näyttämiseen.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Ei voida käynnistää bitcoin: klikkaa-maksu käsittelijää</translation>
+        <translation>Ei voida käynnistää altcoin: klikkaa-maksu käsittelijää</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2238,7 +2238,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Viesti joka liitettiin bitcoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Bitcoin-verkkoon.</translation>
+        <translation>Viesti joka liitettiin altcoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Bitcoin-verkkoon.</translation>
     </message>
     <message>
         <source>Pay To:</source>

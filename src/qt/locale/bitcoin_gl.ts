@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Solicitar pagos (xenera códigos QR e bitcoin: URIs)</translation>
+        <translation>Solicitar pagos (xenera códigos QR e altcoin: URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Abrir un bitcoin: URI ou solicitude de pago</translation>
+        <translation>Abrir un altcoin: URI ou solicitude de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

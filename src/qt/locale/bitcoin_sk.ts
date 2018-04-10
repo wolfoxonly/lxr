@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Jadro Bitcoin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj, že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred krádežou bitcoinov pomocou škodlivého software.</translation>
+        <translation>Jadro Bitcoin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj, že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred krádežou altcoinov pomocou škodlivého software.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Poslať bitcoins na adresu</translation>
+        <translation>Poslať altcoins na adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Vyžiadať platby (vygeneruje QR kódy a bitcoin: URI)</translation>
+        <translation>Vyžiadať platby (vygeneruje QR kódy a altcoin: URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Otvoriť bitcoin URI alebo výzvu k platbe</translation>
+        <translation>Otvoriť altcoin URI alebo výzvu k platbe</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Vložená adresa "%1" nieje platnou adresou bitcoin.</translation>
+        <translation>Vložená adresa "%1" nieje platnou adresou altcoin.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -1165,7 +1165,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Zvoľte ako deliť bitcoin pri zobrazovaní pri platbách a užívateľskom rozhraní.</translation>
+        <translation>Zvoľte ako deliť altcoin pri zobrazovaní pri platbách a užívateľskom rozhraní.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Nedá sa spustiť obslužný program bitcoin: click-to-pay zaplatiť kliknutím</translation>
+        <translation>Nedá sa spustiť obslužný program altcoin: click-to-pay zaplatiť kliknutím</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1397,7 +1397,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Zadajte bitcoin adresu (napr. %1)</translation>
+        <translation>Zadajte altcoin adresu (napr. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2064,7 +2064,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie bitcoins</translation>
+        <translation>Potvrdiť odoslanie altcoins</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2219,7 +2219,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Poplatok sa odpočíta od čiastky, ktorú odosielate. Príjemca dostane menej bitcoinov ako zadáte. Ak je vybraných viacero príjemcov, poplatok je rozdelený rovným dielom.</translation>
+        <translation>Poplatok sa odpočíta od čiastky, ktorú odosielate. Príjemca dostane menej altcoinov ako zadáte. Ak je vybraných viacero príjemcov, poplatok je rozdelený rovným dielom.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2243,7 +2243,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Správa ktorá bola pripojená k bitcoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Bitcoin.</translation>
+        <translation>Správa ktorá bola pripojená k altcoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Bitcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2954,7 +2954,7 @@
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Toto je pred-testovacia verzia - použitie je na vlastné riziko - nepoužívajte na tvorbu bitcoin ani obchodovanie.</translation>
+        <translation>Toto je pred-testovacia verzia - použitie je na vlastné riziko - nepoužívajte na tvorbu altcoin ani obchodovanie.</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>

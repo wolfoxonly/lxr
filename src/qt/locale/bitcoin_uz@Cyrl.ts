@@ -387,7 +387,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Тўловлар (QR кодлари ва bitcoin ёрдамида яратишлар: URI’лар) сўраш</translation>
+        <translation>Тўловлар (QR кодлари ва altcoin ёрдамида яратишлар: URI’лар) сўраш</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>

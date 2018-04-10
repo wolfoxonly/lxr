@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Zahlungen anfordern (erzeugt QR-Codes und "bitcoin:"-URIs)</translation>
+        <translation>Zahlungen anfordern (erzeugt QR-Codes und "altcoin:"-URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Eine "bitcoin:"-URI oder Zahlungsanforderung öffnen</translation>
+        <translation>Eine "altcoin:"-URI oder Zahlungsanforderung öffnen</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>"bitcoin: Klicken-zum-Bezahlen"-Handler konnte nicht gestartet werden</translation>
+        <translation>"altcoin: Klicken-zum-Bezahlen"-Handler konnte nicht gestartet werden</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2250,7 +2250,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Eine an die "bitcoin:"-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das Bitcoin-Netzwerk gesendet.</translation>
+        <translation>Eine an die "altcoin:"-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das Bitcoin-Netzwerk gesendet.</translation>
     </message>
     <message>
         <source>Pay To:</source>

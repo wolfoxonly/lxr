@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და bitcoin: ბმულები)</translation>
+        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და altcoin: ბმულები)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -383,7 +383,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>bitcoin: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
+        <translation>altcoin: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1009,7 +1009,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>ვერ გაიშვა bitcoin: click-to-pay</translation>
+        <translation>ვერ გაიშვა altcoin: click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>

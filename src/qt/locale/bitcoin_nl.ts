@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Bitcoinadressen om betalingen mee te doen. Controleer altijd het bedrag en het ontvang adres voordat u uw bitcoins verstuurt.</translation>
+        <translation>Dit zijn uw Bitcoinadressen om betalingen mee te doen. Controleer altijd het bedrag en het ontvang adres voordat u uw altcoins verstuurt.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core zal nu afsluiten om het versleutelingsproces te voltooien. Hou er rekening mee dat versleuteling van je portemonnee je niet volledig beschermt tegen diefstal van jouw bitcoins door malware op je computer.</translation>
+        <translation>Bitcoin Core zal nu afsluiten om het versleutelingsproces te voltooien. Hou er rekening mee dat versleuteling van je portemonnee je niet volledig beschermt tegen diefstal van jouw altcoins door malware op je computer.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR-codes en bitcoin: URI's)</translation>
+        <translation>Vraag betaling aan (genereert QR-codes en altcoin: URI's)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Open een bitcoin: URI of betalingsverzoek</translation>
+        <translation>Open een altcoin: URI of betalingsverzoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1315,7 +1315,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Kan bitcoin niet starten: click-to-pay handler</translation>
+        <translation>Kan altcoin niet starten: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1995,7 +1995,7 @@
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation>De minimale toeslag betalen is prima mits het transactievolume kleiner is dan de ruimte in de blokken. Let wel op dat dit tot gevolg kan hebben dat een transactie nooit wordt bevestigd als er meer vraag is naar bitcointransacties dan het netwerk kan verwerken.</translation>
+        <translation>De minimale toeslag betalen is prima mits het transactievolume kleiner is dan de ruimte in de blokken. Let wel op dat dit tot gevolg kan hebben dat een transactie nooit wordt bevestigd als er meer vraag is naar altcointransacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2226,7 +2226,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>De transactiekosten zal worden afgetrokken van het bedrag dat verstuurd wordt. De ontvangers zullen minder bitcoins ontvangen dan ingevoerd is in het hoeveelheidsveld. Als er meerdere ontvangers geselecteerd zijn, dan worden de transactiekosten gelijk verdeeld.</translation>
+        <translation>De transactiekosten zal worden afgetrokken van het bedrag dat verstuurd wordt. De ontvangers zullen minder altcoins ontvangen dan ingevoerd is in het hoeveelheidsveld. Als er meerdere ontvangers geselecteerd zijn, dan worden de transactiekosten gelijk verdeeld.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2250,7 +2250,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Een bericht dat werd toegevoegd aan de bitcoin: URI welke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Bitcoinnetwerk.</translation>
+        <translation>Een bericht dat werd toegevoegd aan de altcoin: URI welke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Bitcoinnetwerk.</translation>
     </message>
     <message>
         <source>Pay To:</source>

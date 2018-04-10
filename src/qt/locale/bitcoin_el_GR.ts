@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση bitcoin</translation>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση altcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -397,7 +397,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις bitcoin: )</translation>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις altcoin: )</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -413,7 +413,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Άνοιγμα bitcoin: URI αίτησης πληρωμής</translation>
+        <translation>Άνοιγμα altcoin: URI αίτησης πληρωμής</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

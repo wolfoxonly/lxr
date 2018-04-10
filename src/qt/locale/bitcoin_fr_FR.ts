@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Choisissez une adresse où envoyer les bitcoins</translation>
+        <translation>Choisissez une adresse où envoyer les altcoins</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Choisissez une adresse où recevoir les bitcoins</translation>
+        <translation>Choisissez une adresse où recevoir les altcoins</translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -162,7 +162,7 @@ Réessayez.</translation>
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core fermera maintenant pour finir le processus de chiffrement. Rappelez-vous que crypter votre portefeuille ne protége pas totalement vos bitcoins d'être volé par un malware ayant infecté votre ordinateur. </translation>
+        <translation>Bitcoin Core fermera maintenant pour finir le processus de chiffrement. Rappelez-vous que crypter votre portefeuille ne protége pas totalement vos altcoins d'être volé par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -384,7 +384,7 @@ Réessayez.</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Demander des paiements (générer QR codes et bitcoin: URIs)</translation>
+        <translation>Demander des paiements (générer QR codes et altcoin: URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -400,7 +400,7 @@ Réessayez.</translation>
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Ouvrir un bitcoin: URI ou demande de paiement</translation>
+        <translation>Ouvrir un altcoin: URI ou demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

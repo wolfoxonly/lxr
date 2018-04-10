@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>请求支付（生成二维码和 bitcoin: URI）</translation>
+        <translation>请求支付（生成二维码和 altcoin: URI）</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
@@ -2246,7 +2246,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>bitcoin:URI 附带的备注信息，将会和交易一起存储，备查。 注意：该消息不会通过比特币网络传输。</translation>
+        <translation>altcoin:URI 附带的备注信息，将会和交易一起存储，备查。 注意：该消息不会通过比特币网络传输。</translation>
     </message>
     <message>
         <source>Pay To:</source>
