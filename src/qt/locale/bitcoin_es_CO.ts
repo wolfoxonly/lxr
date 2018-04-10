@@ -158,7 +158,7 @@ Estas son las direcciones de Bitcoin para enviar pagos . Siempre verifique la ca
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Precaución: Si tú has encriptado tu billetera y has perdido tu contraseña, usted &lt;b&gt;PERDERÁ TODOS TUS BITCOINS&lt;/b&gt;</translation>
+        <translation>Precaución: Si tú has encriptado tu billetera y has perdido tu contraseña, usted &lt;b&gt;PERDERÁ TODOS TUS altcoinS&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>

@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Atención: Si encriptás tu billetera y perdés tu frase de contraseña, vas a &lt;b&gt;PERDER TODOS TUS BITCOINS&lt;/b&gt;!</translation>
+        <translation>Atención: Si encriptás tu billetera y perdés tu frase de contraseña, vas a &lt;b&gt;PERDER TODOS TUS altcoinS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
