@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Modifica las opciones para BitCoin Core</translation>
+        <translation>Modifica las opciones para altcoin Core</translation>
     </message>
     <message>
         <source>%1 and %2</source>
