@@ -423,7 +423,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivna veza na Bitcoin mrežu</numerusform><numerusform>%n aktivnih veza na altcoin mrežu</numerusform><numerusform>%n aktivnih veza na altcoin mrežu</numerusform></translation>
+        <translation><numerusform>%n aktivna veza na altcoin mrežu</numerusform><numerusform>%n aktivnih veza na altcoin mrežu</numerusform><numerusform>%n aktivnih veza na altcoin mrežu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>

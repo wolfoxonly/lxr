@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n активне з'єднання з мережею Bitcoin</numerusform><numerusform>%n активні з'єднання з мережею altcoin</numerusform><numerusform>%n активних з'єднань з мережею altcoin</numerusform></translation>
+        <translation><numerusform>%n активне з'єднання з мережею altcoin</numerusform><numerusform>%n активні з'єднання з мережею altcoin</numerusform><numerusform>%n активних з'єднань з мережею altcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
