@@ -228,7 +228,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>

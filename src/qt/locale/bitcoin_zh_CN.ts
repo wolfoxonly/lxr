@@ -2415,7 +2415,7 @@
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core 的开发者</translation>
+        <translation>altcoin Core 的开发者</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3290,7 +3290,7 @@
     </message>
     <message>
         <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>版权所有 (C) 2009-%i Bitcoin Core 开发者</translation>
+        <translation>版权所有 (C) 2009-%i altcoin Core 开发者</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
@@ -3306,7 +3306,7 @@
     </message>
     <message>
         <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>初始化完整性检查失败。Bitcoin Core 即将关闭。</translation>
+        <translation>初始化完整性检查失败。altcoin Core 即将关闭。</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>

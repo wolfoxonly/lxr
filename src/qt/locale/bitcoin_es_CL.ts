@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Show information about Bitcoin Core</source>
-        <translation>Mostrar informacion sobre Bitcoin Core</translation>
+        <translation>Mostrar informacion sobre altcoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Sobre Bitcoin Core</translation>
+        <translation>&amp;Sobre altcoin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitcoin Core</source>
@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Bitcoin valida.</translation>
+        <translation>La dirección introducida "%1" no es una dirección altcoin valida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -604,7 +604,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Bitcoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <translation>Abre automáticamente el puerto del cliente altcoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1050,7 +1050,7 @@
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor, revise la dirección Bitcoin e inténtelo denuevo</translation>
+        <translation>Por favor, revise la dirección altcoin e inténtelo denuevo</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>

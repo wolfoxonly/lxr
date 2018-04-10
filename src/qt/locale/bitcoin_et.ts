@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Bitcoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <translation>Need on sinu altcoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Saada münte Bitcoini aadressile</translation>
+        <translation>Saada münte altcoini aadressile</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -303,11 +303,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Bitcoini aadressiga</translation>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma altcoini aadressiga</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Bitcoini aadressiga</translation>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud altcoini aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -327,11 +327,11 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoini tuumik</translation>
+        <translation>altcoini tuumik</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>Kirjeldus Bitcoini Tuumast</translation>
+        <translation>Kirjeldus altcoini Tuumast</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -570,7 +570,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Sisestatud aadress "%1" ei ole Bitcoinis kehtiv.</translation>
+        <translation>Sisestatud aadress "%1" ei ole altcoinis kehtiv.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -592,7 +592,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoini tuumik</translation>
+        <translation>altcoini tuumik</translation>
     </message>
     <message>
         <source>version</source>
@@ -600,7 +600,7 @@
     </message>
     <message>
         <source>About Bitcoin Core</source>
-        <translation>Kirjeldus Bitcoini Tuumast</translation>
+        <translation>Kirjeldus altcoini Tuumast</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -623,7 +623,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoini tuumik</translation>
+        <translation>altcoini tuumik</translation>
     </message>
     <message>
         <source>Error</source>
@@ -677,7 +677,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Bitcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <translation>altcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -779,7 +779,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Bitcoin ei käivitu: vajuta-maksa toiming</translation>
+        <translation>altcoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
     </context>
 <context>
@@ -1204,7 +1204,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Allkirjasta sõnum Bitcoini aadressi sulle kuulumise tõestamiseks</translation>
+        <translation>Allkirjasta sõnum altcoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1224,7 +1224,7 @@
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Bitcoini aadressiga.</translation>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud altcoini aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1291,11 +1291,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoini tuumik</translation>
+        <translation>altcoini tuumik</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
-        <translation>Bitcoini Tuuma arendajad</translation>
+        <translation>altcoini Tuuma arendajad</translation>
     </message>
     <message>
         <source>[testnet]</source>

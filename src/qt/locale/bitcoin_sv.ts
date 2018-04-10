@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Bitcoin-adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Bitcoins.</translation>
+        <translation>Detta är dina Bitcoin-adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar altcoins.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Detta är dina Bitcoin-adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
+        <translation>Detta är dina altcoin-adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -170,7 +170,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
+        <translation>altcoin Core kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -308,7 +308,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core-klient</translation>
+        <translation>altcoin Core-klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -320,7 +320,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Skicka altcoins till en Bitcoin-adress</translation>
+        <translation>Skicka altcoins till en altcoin-adress</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -344,7 +344,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -360,7 +360,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Show information about Bitcoin Core</source>
-        <translation>Visa information om Bitcoin Core</translation>
+        <translation>Visa information om altcoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -376,11 +376,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Bitcoin-adress för att bevisa att du äger dem</translation>
+        <translation>Signera meddelanden med din altcoin-adress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med specificerade Bitcoin-adresser</translation>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med specificerade altcoin-adresser</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -400,7 +400,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <translation>altcoin Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
@@ -408,11 +408,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Om Bitcoin Core</translation>
+        <translation>&amp;Om altcoin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Ändra konfigurationsalternativ för Bitcoin Core</translation>
+        <translation>Ändra konfigurationsalternativ för altcoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -432,11 +432,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Visa Bitcoin Cores hjälpmeddelande för att få en lista med möjliga Bitcoin-kommandoradsalternativ.</translation>
+        <translation>Visa Bitcoin Cores hjälpmeddelande för att få en lista med möjliga altcoin-kommandoradsalternativ.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktiva anslutningar till Bitcoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till Bitcoin-nätverket.</numerusform></translation>
+        <translation><numerusform>%n aktiva anslutningar till Bitcoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till altcoin-nätverket.</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -819,7 +819,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Den angivna adressen "%1" är inte en giltig Bitcoin-adress.</translation>
+        <translation>Den angivna adressen "%1" är inte en giltig altcoin-adress.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -857,7 +857,7 @@ Var vänlig och försök igen.</translation>
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <translation>altcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -869,7 +869,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>About Bitcoin Core</source>
-        <translation>Om Bitcoin Core</translation>
+        <translation>Om altcoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -920,15 +920,15 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Welcome to Bitcoin Core.</source>
-        <translation>Välkommen till Bitcoin Core.</translation>
+        <translation>Välkommen till altcoin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet startas får du välja var Bitcoin Core skall lagra sina data.</translation>
+        <translation>Eftersom detta är första gången programmet startas får du välja var altcoin Core skall lagra sina data.</translation>
     </message>
     <message>
         <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core kommer att ladda ner och spara en kopia av Bitcoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <translation>Bitcoin Core kommer att ladda ner och spara en kopia av altcoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -940,7 +940,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <translation>altcoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1022,7 +1022,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
-        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av Bitcoin Core.</translation>
+        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av altcoin Core.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1050,11 +1050,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation>Kör Bitcoin Core automatiskt vid systeminloggning.</translation>
+        <translation>Kör altcoin Core automatiskt vid systeminloggning.</translation>
     </message>
     <message>
         <source>&amp;Start Bitcoin Core on system login</source>
-        <translation>&amp;Kör Bitcoin Core vid systeminloggning</translation>
+        <translation>&amp;Kör altcoin Core vid systeminloggning</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1082,7 +1082,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Bitcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <translation>Öppna automatiskt altcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1090,7 +1090,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Anslut till Bitcoin-nätverket genom en SOCKS5-proxy.</translation>
+        <translation>Anslut till altcoin-nätverket genom en SOCKS5-proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1130,7 +1130,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Anslut till Bitcoin-nätverket genom en separat SOCKS5-proxy för dolda tjänster i Tor.</translation>
+        <translation>Anslut till altcoin-nätverket genom en separat SOCKS5-proxy för dolda tjänster i Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1217,7 +1217,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Bitcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med altcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1324,7 +1324,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Bitcoin-adress eller felaktiga URI parametrar.</translation>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig altcoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1398,7 +1398,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Ange en Bitcoin-adress (t.ex. %1)</translation>
+        <translation>Ange en altcoin-adress (t.ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1520,7 +1520,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna felsökningsloggfilen för Bitcoin Core från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
+        <translation>Öppna felsökningsloggfilen för altcoin Core från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1680,7 +1680,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation>Välkommen till RPC-konsolen för Bitcoin Core.</translation>
+        <translation>Välkommen till RPC-konsolen för altcoin Core.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1763,7 +1763,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över Bitcoinnätverket.</translation>
+        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över altcoinnätverket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2156,7 +2156,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Varning: Felaktig Bitcoinadress</translation>
+        <translation>Varning: Felaktig altcoinadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2207,7 +2207,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>Bitcoinadress att sända betalning till</translation>
+        <translation>altcoinadress att sända betalning till</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2251,7 +2251,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Ett meddelande som bifogades altcoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Bitcoinnätverket.</translation>
+        <translation>Ett meddelande som bifogades altcoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över altcoinnätverket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2266,7 +2266,7 @@ Var vänlig och försök igen.</translation>
     <name>ShutdownWindow</name>
     <message>
         <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core stängs av...</translation>
+        <translation>altcoin Core stängs av...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2289,7 +2289,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>Bitcoinadress att signera meddelandet med</translation>
+        <translation>altcoinadress att signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2345,11 +2345,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>Bitcoinadressen som meddelandet signerades med</translation>
+        <translation>altcoinadressen som meddelandet signerades med</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Bitcoin-adressen</translation>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna altcoin-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2416,11 +2416,11 @@ Var vänlig och försök igen.</translation>
     <name>SplashScreen</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Kärna</translation>
+        <translation>altcoin Kärna</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core-utvecklarna</translation>
+        <translation>altcoin Core-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2938,7 +2938,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Please check that your computer's date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
-        <translation>Vänligen kontrollera att din dators datum och tid är korrekt! Om din klocka går fel kommer Bitcoin Core inte att fungera ordentligt.</translation>
+        <translation>Vänligen kontrollera att din dators datum och tid är korrekt! Om din klocka går fel kommer altcoin Core inte att fungera ordentligt.</translation>
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
@@ -3010,7 +3010,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Bitcoin Core är förmodligen redan igång.</translation>
+        <translation>Det går inte att binda till %s på den här datorn. altcoin Core är förmodligen redan igång.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3218,7 +3218,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Bitcoin Core körs förmodligen redan.</translation>
+        <translation>Kan inte låsa data-mappen %s. altcoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3318,11 +3318,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i Bitcoin Core Utvecklarna</translation>
+        <translation>Copyright (C) 2009-%i altcoin Core Utvecklarna</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
-        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av Bitcoin Core</translation>
+        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av altcoin Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3338,7 +3338,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>Initieringschecken fallerade. Bitcoin Core stängs av...</translation>
+        <translation>Initieringschecken fallerade. altcoin Core stängs av...</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3458,7 +3458,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
-        <translation>Kontot behöver sparas om: Starta om Bitcoin Core för att fullfölja</translation>
+        <translation>Kontot behöver sparas om: Starta om altcoin Core för att fullfölja</translation>
     </message>
     <message>
         <source>Warning</source>

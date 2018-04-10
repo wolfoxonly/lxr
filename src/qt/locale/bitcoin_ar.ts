@@ -367,11 +367,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>وقَع الرسائل بواسطة ال: Bitcoin الخاص بك لإثبات امتلاكك لهم</translation>
+        <translation>وقَع الرسائل بواسطة ال: altcoin الخاص بك لإثبات امتلاكك لهم</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل Bitcoin محدَدة</translation>
+        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل altcoin محدَدة</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -399,7 +399,7 @@
     </message>
     <message>
         <source>Modify configuration options for Bitcoin Core</source>
-        <translation>تغيير خيارات الإعداد لأساس Bitcoin</translation>
+        <translation>تغيير خيارات الإعداد لأساس altcoin</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,7 +411,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>فتح URI : Bitcoin أو طلب دفع</translation>
+        <translation>فتح URI : altcoin أو طلب دفع</translation>
     </message>
     <message>
         <source>%1 and %2</source>

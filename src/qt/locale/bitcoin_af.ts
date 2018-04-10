@@ -59,11 +59,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u Bitcoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <translation>Hierdie is die adresse vanwaar u altcoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u Bitcoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <translation>Hierdie is die adresse waar u altcoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Kern gaan nou toemaak om die kodifikasie af te handel. Onthou dat die kodifikasie van u beursie nie altyd u munte kan beskerm teen diefstal deur kwaadwillige sagteware op u rekenaar nie.</translation>
+        <translation>altcoin Kern gaan nou toemaak om die kodifikasie af te handel. Onthou dat die kodifikasie van u beursie nie altyd u munte kan beskerm teen diefstal deur kwaadwillige sagteware op u rekenaar nie.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -259,7 +259,7 @@
     </message>
     <message>
         <source>Bitcoin Core client</source>
-        <translation>Bitcoin Kern klient</translation>
+        <translation>altcoin Kern klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Stuur munte na 'n Bitcoin adres</translation>
+        <translation>Stuur munte na 'n altcoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Show information about Bitcoin Core</source>
-        <translation>Vertoon inligting oor Bitcoin Kern</translation>
+        <translation>Vertoon inligting oor altcoin Kern</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
@@ -311,11 +311,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u Bitcoin adresse om u eienaarskap te bewys</translation>
+        <translation>Onderteken boodskappe met u altcoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Bitcoin adresse</translation>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde altcoin adresse</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -323,7 +323,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Kern</translation>
+        <translation>altcoin Kern</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
@@ -331,11 +331,11 @@
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Omtrent Bitcoin Kern</translation>
+        <translation>&amp;Omtrent altcoin Kern</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Verander konfigurasie-opsies vir Bitcoin Kern</translation>
+        <translation>Verander konfigurasie-opsies vir altcoin Kern</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -370,7 +370,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Kern</translation>
+        <translation>altcoin Kern</translation>
     </message>
     <message>
         <source>Reset all settings changes made over the GUI</source>
@@ -381,7 +381,7 @@
     <name>Intro</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Kern</translation>
+        <translation>altcoin Kern</translation>
     </message>
     </context>
 <context>
@@ -445,7 +445,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Kern</translation>
+        <translation>altcoin Kern</translation>
     </message>
     </context>
 <context>

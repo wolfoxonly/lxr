@@ -86,7 +86,7 @@
     <message>
         <location line="+7"/>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <translation>These are your altcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -406,7 +406,7 @@
     <message>
         <location line="-436"/>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Send coins to a Bitcoin address</translation>
+        <translation>Send coins to a altcoin address</translation>
     </message>
     <message>
         <location line="+65"/>
@@ -436,7 +436,7 @@
     <message>
         <location line="+459"/>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <location line="-669"/>
@@ -476,12 +476,12 @@
     <message>
         <location line="+7"/>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Bitcoin addresses to prove you own them</translation>
+        <translation>Sign messages with your altcoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Bitcoin addresses</translation>
+        <translation>Verify messages to ensure they were signed with specified altcoin addresses</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -506,7 +506,7 @@
     <message>
         <location line="-314"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">altcoin Core</translation>
     </message>
     <message>
         <location line="+160"/>
@@ -1042,7 +1042,7 @@
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Bitcoin address.</translation>
+        <translation>The entered address &quot;%1&quot; is not a valid altcoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,7 +1088,7 @@
     <message>
         <location filename="../utilitydialog.cpp" line="+36"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">altcoin Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1192,7 +1192,7 @@
     <message>
         <location filename="../intro.cpp" line="+86"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">altcoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1376,7 +1376,7 @@
     <message>
         <location line="+30"/>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <translation>Automatically open the altcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1551,7 +1551,7 @@
         <location line="+59"/>
         <location line="+386"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</translation>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the altcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -2989,7 +2989,7 @@
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Sign the message to prove you own this Bitcoin address</translation>
+        <translation>Sign the message to prove you own this altcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3025,7 +3025,7 @@
     <message>
         <location line="+37"/>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Bitcoin address</translation>
+        <translation>Verify the message to ensure it was signed with the specified altcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3114,7 +3114,7 @@
     <message>
         <location filename="../splashscreen.cpp" line="+41"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">altcoin Core</translation>
     </message>
     <message>
         <location line="+2"/>

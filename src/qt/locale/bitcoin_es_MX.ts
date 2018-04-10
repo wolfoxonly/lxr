@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones de Bitcoin para enviar pagos. Siempre revise la cantidad y la dirección receptora antes de enviar monedas</translation>
+        <translation>Estas son tus direcciones de altcoin para enviar pagos. Siempre revise la cantidad y la dirección receptora antes de enviar monedas</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Bitcoin para recibir pagos. Es recomendado usar una nueva dirección receptora para cada transacción.</translation>
+        <translation>Estas son tus direcciones altcoin para recibir pagos. Es recomendado usar una nueva dirección receptora para cada transacción.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Bitcoin Core client</source>
-        <translation>cliente Bitcoin Core</translation>
+        <translation>cliente altcoin Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar monedas a una dirección Bitcoin</translation>
+        <translation>Enviar monedas a una dirección altcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,11 +339,11 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>nucleo Bitcoin</translation>
+        <translation>nucleo altcoin</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>Acerca de Bitcoin Core</translation>
+        <translation>Acerca de altcoin Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostrar mensaje de ayuda del nucleo de Bitcoin para optener una lista con los posibles comandos  de Bitcoin</translation>
+        <translation>Mostrar mensaje de ayuda del nucleo de Bitcoin para optener una lista con los posibles comandos  de altcoin</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -506,7 +506,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>nucleo Bitcoin</translation>
+        <translation>nucleo altcoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>About Bitcoin Core</source>
-        <translation>Acerca de Bitcoin Core</translation>
+        <translation>Acerca de altcoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -537,7 +537,7 @@
     <name>Intro</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>nucleo Bitcoin</translation>
+        <translation>nucleo altcoin</translation>
     </message>
     </context>
 <context>
@@ -604,7 +604,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Bitcoin.</translation>
+        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de altcoin.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -757,7 +757,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Advertencia: Dirección de Bitcoin invalida</translation>
+        <translation>Advertencia: Dirección de altcoin invalida</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -819,7 +819,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Bitcoin Core is shutting down...</source>
-        <translation>Apagando el nucleo de Bitcoin...</translation>
+        <translation>Apagando el nucleo de altcoin...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -849,11 +849,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <translation>altcoin Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
-        <translation>Los desarrolladores de Bitcoin Core</translation>
+        <translation>Los desarrolladores de altcoin Core</translation>
     </message>
     </context>
 <context>

@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai yra jūsų Bitcoin adresai mokėjimų siuntimui. Visada patikrinkite siunčiamą sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <translation>Tai yra jūsų altcoin adresai mokėjimų siuntimui. Visada patikrinkite siunčiamą sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai yra jūsų Bitcoin adresai mokėjimų gavimui. Rekomenduojame naudoti naujus gavimo adresus kiekvienai tranzakcijai.</translation>
+        <translation>Tai yra jūsų altcoin adresai mokėjimų gavimui. Rekomenduojame naudoti naujus gavimo adresus kiekvienai tranzakcijai.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -287,7 +287,7 @@
     </message>
     <message>
         <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core klientas</translation>
+        <translation>altcoin Core klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Siųsti monetas Bitcoin adresui</translation>
+        <translation>Siųsti monetas altcoin adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,7 +323,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>altcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,7 +339,7 @@
     </message>
     <message>
         <source>Show information about Bitcoin Core</source>
-        <translation>Rodyti informaciją apie Bitcoin Core</translation>
+        <translation>Rodyti informaciją apie altcoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -371,11 +371,11 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <translation>altcoin branduolys</translation>
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Apie Bitcoin Core</translation>
+        <translation>&amp;Apie altcoin Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -616,7 +616,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Bitcoin adresas.</translation>
+        <translation>Įvestas adresas „%1“ nėra galiojantis altcoin adresas.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -638,7 +638,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <translation>altcoin branduolys</translation>
     </message>
     <message>
         <source>version</source>
@@ -646,7 +646,7 @@
     </message>
     <message>
         <source>About Bitcoin Core</source>
-        <translation>Apie Bitcoin Core</translation>
+        <translation>Apie altcoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -669,11 +669,11 @@
     </message>
     <message>
         <source>Welcome to Bitcoin Core.</source>
-        <translation>Sveiki atvykę į Bitcoin Core.</translation>
+        <translation>Sveiki atvykę į altcoin Core.</translation>
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <translation>altcoin branduolys</translation>
     </message>
     <message>
         <source>Error</source>
@@ -715,7 +715,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Bitcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <translation>Automatiškai atidaryti altcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1306,7 +1306,7 @@
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Bitcoin adresas</translation>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas altcoin adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1361,7 +1361,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <translation>altcoin branduolys</translation>
     </message>
     <message>
         <source>[testnet]</source>

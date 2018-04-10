@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>&amp;About Bitcoin Core</source>
-        <translation>O Bitcoin Coru</translation>
+        <translation>O altcoin Coru</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>About Bitcoin Core</source>
-        <translation>O Bitcoin Coru</translation>
+        <translation>O altcoin Coru</translation>
     </message>
     <message>
         <source>Usage:</source>
