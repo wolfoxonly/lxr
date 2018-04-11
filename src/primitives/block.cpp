@@ -12,7 +12,9 @@
 
 uint256 CBlockHeader::GetHash() const
 {
-    return SerializeHash(*this);
+    CPowHashWriter ss(SER_GETHASH, PROTOCOL_VERSION);
+    ss << (*this);
+    return ss.GetHash();
 }
 
 std::string CBlock::ToString() const
