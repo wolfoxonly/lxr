@@ -1,4 +1,9 @@
 *.tar.gz
+built/
+depends/SDKs
+depends/sdk-sources
+depends/sources
+linux.sh
 
 bkc.config
 bkc.creator
