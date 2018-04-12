@@ -9,8 +9,10 @@
 #include "tinyformat.h"
 #include "util.h"
 #include "utilstrencodings.h"
+#include "arith_uint256.h"
 
 #include <assert.h>
+#include <stdio.h>
 
 #include <boost/assign/list_of.hpp>
 
