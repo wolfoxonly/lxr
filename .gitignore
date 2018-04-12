@@ -1,5 +1,11 @@
 *.tar.gz
 
+bkc.config
+bkc.creator
+bkc.creator.user
+bkc.files
+bkc.includes
+
 *.exe
 src/bitcoin
 src/bitcoind
