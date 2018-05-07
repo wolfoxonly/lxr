@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>altcoin</translation>
+        <translation>Lxrcoins</translation>
     </message>
     <message>
         <source>&amp;File</source>
