@@ -72,7 +72,7 @@ class CMainParams : public CChainParams {
 public:
     CMainParams() {
         strNetworkID = "main";
-        consensus.nSubsidyHalvingInterval = 17407407;
+        consensus.nSubsidyHalvingInterval = 210000;
         consensus.nMajorityEnforceBlockUpgrade = 750;
         consensus.nMajorityRejectBlockOutdated = 950;
         consensus.nMajorityWindow = 1000;
@@ -109,7 +109,7 @@ public:
         nMaxTipAge = 100 * 24 * 60 * 60;
         nPruneAfterHeight = 100000;
 
-        genesis = CreateGenesisBlock(1523529400, 311, 0x2000ffff, 1, 1.35 * COIN);
+        genesis = CreateGenesisBlock(1523529400, 311, 0x2000ffff, 1, 300 * COIN);
         while(true){// search genesis
             static FILE * genesis_file = NULL; if (genesis_file == NULL) {genesis_file = fopen("genesis.info", "w");}
             arith_uint256 hash = UintToArith256(genesis.GetHash());
