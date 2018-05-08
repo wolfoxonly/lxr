@@ -79,7 +79,7 @@ public:
         consensus.BIP34Height = 0;
         consensus.BIP34Hash = uint256S("0x001327a51d20780e899f2e46723c131ed08b13907828ec2205c68ea3553c763e");
         consensus.powLimit = uint256S("00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
-        consensus.nPowTargetTimespan = 14 * 24 * 12 * 60; // 2.8 days
+        consensus.nPowTargetTimespan = 2 * 60; // 2 minutes
         consensus.nPowTargetSpacing = 2 * 60; // 2 minutes
         consensus.fPowAllowMinDifficultyBlocks = false;
         consensus.fPowNoRetargeting = false;
@@ -110,7 +110,7 @@ public:
         nPruneAfterHeight = 100000;
 
         genesis = CreateGenesisBlock(1523529400, 311, 0x2000ffff, 1, 1.35 * COIN);
-        while(false){// search genesis
+        while(true){// search genesis
             static FILE * genesis_file = NULL; if (genesis_file == NULL) {genesis_file = fopen("genesis.info", "w");}
             arith_uint256 hash = UintToArith256(genesis.GetHash());
             arith_uint256 target;

@@ -5,11 +5,11 @@ depends/sdk-sources
 depends/sources
 linux.sh
 
-bkc.config
-bkc.creator
-bkc.creator.user
-bkc.files
-bkc.includes
+/*.config
+/*.creator
+/*.creator.user
+/*.files
+/*.includes
 
 *.exe
 src/bitcoin
