@@ -24,7 +24,7 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
         return pindexLast->nBits;
     }
 
-    int nHeightFirst = pindexLast->nHeight - (1);
+    int nHeightFirst = pindexLast->nHeight - (params.DifficultyAdjustmentInterval());
     assert(nHeightFirst >= 0);
     const CBlockIndex* pindexFirst = pindexLast->GetAncestor(nHeightFirst);
     assert(pindexFirst);
@@ -40,12 +40,11 @@ unsigned int CalculateNextWorkRequired(const CBlockIndex* pindexLast, int64_t nF
     // Limit adjustment step
     int64_t nActualTimespan = pindexLast->GetBlockTime() - nFirstBlockTime;
     LogPrintf("  nActualTimespan = %d  before bounds\n", nActualTimespan);
-    if (nActualTimespan <= 0) return pindexLast->nBits;
 
-    if (nActualTimespan < params.nPowTargetTimespan/4)
-        nActualTimespan = params.nPowTargetTimespan/4;
-    if (nActualTimespan > params.nPowTargetTimespan*4)
-        nActualTimespan = params.nPowTargetTimespan*4;
+    if (nActualTimespan < params.nPowTargetTimespan/2)
+        nActualTimespan = params.nPowTargetTimespan/2;
+    if (nActualTimespan > params.nPowTargetTimespan*2)
+        nActualTimespan = params.nPowTargetTimespan*2;
 
     // Retarget
     const arith_uint256 bnPowLimit = UintToArith256(params.powLimit);
