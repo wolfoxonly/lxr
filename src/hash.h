@@ -34,7 +34,7 @@ public:
         sha.Reset().Write(hash, OUTPUT_SIZE).Finalize(hash);
 
         // if wanna quad SHA-256 (that is SHA256Q), do again:
-        //sha.Reset().Write(hash, OUTPUT_SIZE).Finalize(hash);
+        sha.Reset().Write(hash, OUTPUT_SIZE).Finalize(hash);
 
         // NOTE: Hash(Hash(x)) is NOT same as Hash(x|x),
         // so remember Finalize()/Reset(), before Write().
