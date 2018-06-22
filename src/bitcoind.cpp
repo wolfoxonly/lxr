@@ -129,7 +129,7 @@ bool AppInit(int argc, char* argv[])
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon)
         {
-            fprintf(stdout, "Bitcoin server starting\n");
+            fprintf(stdout, "Lxrcoin server starting\n");//<coingo.vip>
 
             // Daemonize
             pid_t pid = fork();
