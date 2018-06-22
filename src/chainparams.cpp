@@ -131,19 +131,19 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0x37b62ce3d53055d7009b16eeaf9374eac61d5662f42be866134bd991199e2cf0"));
         consensus.hashGenesisBlock = genesis.GetHash();
 
-        vSeeds.push_back(CDNSSeedData("node1.ixrcoins.io", "node1.ixrcoins.io"));
-        vSeeds.push_back(CDNSSeedData("node2.ixrcoins.io", "node2.ixrcoins.io"));
-        vSeeds.push_back(CDNSSeedData("node3.ixrcoins.io", "node3.ixrcoins.io"));
-        vSeeds.push_back(CDNSSeedData("node4.ixrcoins.io", "node4.ixrcoins.io"));
-        vSeeds.push_back(CDNSSeedData("node5.ixrcoins.io", "node5.ixrcoins.io"));
-        vSeeds.push_back(CDNSSeedData("node6.ixrcoins.io", "node6.ixrcoins.io"));
+        vSeeds.push_back(CDNSSeedData("node1.lxrcoins.io", "node1.lxrcoins.io"));
+        vSeeds.push_back(CDNSSeedData("node2.lxrcoins.io", "node2.lxrcoins.io"));
+        vSeeds.push_back(CDNSSeedData("node3.lxrcoins.io", "node3.lxrcoins.io"));
+        vSeeds.push_back(CDNSSeedData("node4.lxrcoins.io", "node4.lxrcoins.io"));
+        vSeeds.push_back(CDNSSeedData("node5.lxrcoins.io", "node5.lxrcoins.io"));
+        vSeeds.push_back(CDNSSeedData("node6.lxrcoins.io", "node6.lxrcoins.io"));
 
-        vSeeds.push_back(CDNSSeedData("node1.ixrcoins.com", "node1.ixrcoins.com"));
-        vSeeds.push_back(CDNSSeedData("node2.ixrcoins.com", "node2.ixrcoins.com"));
-        vSeeds.push_back(CDNSSeedData("node3.ixrcoins.com", "node3.ixrcoins.com"));
-        vSeeds.push_back(CDNSSeedData("node4.ixrcoins.com", "node4.ixrcoins.com"));
-        vSeeds.push_back(CDNSSeedData("node5.ixrcoins.com", "node5.ixrcoins.com"));
-        vSeeds.push_back(CDNSSeedData("node6.ixrcoins.com", "node6.ixrcoins.com"));
+        vSeeds.push_back(CDNSSeedData("node1.lxrcoins.com", "node1.lxrcoins.com"));
+        vSeeds.push_back(CDNSSeedData("node2.lxrcoins.com", "node2.lxrcoins.com"));
+        vSeeds.push_back(CDNSSeedData("node3.lxrcoins.com", "node3.lxrcoins.com"));
+        vSeeds.push_back(CDNSSeedData("node4.lxrcoins.com", "node4.lxrcoins.com"));
+        vSeeds.push_back(CDNSSeedData("node5.lxrcoins.com", "node5.lxrcoins.com"));
+        vSeeds.push_back(CDNSSeedData("node6.lxrcoins.com", "node6.lxrcoins.com"));
 
         // Ref: https://en.bitcoin.it/wiki/List_of_address_prefixes
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,48);  //'L'
