@@ -32,7 +32,7 @@ class CBaseMainParams : public CBaseChainParams
 public:
     CBaseMainParams()
     {
-        nRPCPort = 7332;
+        nRPCPort = 9340;//<coingo.vip>
     }
 };
 static CBaseMainParams mainParams;

@@ -105,7 +105,7 @@ public:
         pchMessageStart[2] = 0xcc;
         pchMessageStart[3] = 0xdd;
         vAlertPubKey = ParseHex("0415090f3c29db7f2171cdce881e3f3058b6423a6e58403e40d06b9dd5d73c14c16c7f6838b9e188824304887afa3af737cc3f03933bd2b4052ce5fba93389d872");
-        nDefaultPort = 7333;
+        nDefaultPort = 9339;//<coingo.vip>
         nMaxTipAge = 100 * 24 * 60 * 60;
         nPruneAfterHeight = 100000;
 
@@ -162,8 +162,8 @@ public:
 
         checkpointData = (CCheckpointData) {
             boost::assign::map_list_of
-            (        0, uint256S("0x0074cb9c4b30aff770f676afd18ddab72f2e7f594e212b5a8460a7634730e10a"))
-            (        1, uint256S("0x00004427a0b33f62e9c4ccbbe4363ec026fa40f50f4303a589897bf89454917f")),//<coingo.vip>
+            (        0, uint256S("0x0074cb9c4b30aff770f676afd18ddab72f2e7f594e212b5a8460a7634730e10a")),
+   //         (        1, uint256S("0x00004427a0b33f62e9c4ccbbe4363ec026fa40f50f4303a589897bf89454917f")),//<coingo.vip>
             1523529400, // * UNIX timestamp of last checkpoint block
             1,          // * total number of transactions between genesis and last checkpoint
                         //   (the tx=... number in the SetBestChain debug.log lines)
